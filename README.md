@@ -11,6 +11,7 @@ One of the biggest problems when people prepare to post a new listing on airbnb 
 Predicting the actual price could be simple (well you can just go search online 👍), so we cut the pricing into three different bins for classification 😂. For each listing, we recommend a pricing range to the new host rather than a fix price (how nice is that!). So we define three categories: beginner, plus, premium based on the created listing. Respectively we use 0, 1, 2 to denote these three categories.
 
 The dataset contains listings of different areas in Montreal during 2019. It comes with rich information for each listing, including a link to the thumbnails etc. As discussed in the last lecture, we will follow a multi-objective (multi-task) multi-modality solution.
+https://www.kaggle.com/t/3d7fae64524242e381082320549b95d8
 
 Enjoy!
 
